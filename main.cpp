@@ -8,9 +8,7 @@ int main(int argc, char* argv[]) {
          if(j >= 31 && j <= 37 || j >= 41 && j <= 47 ||
             j >= 90 && j <= 97 || j >= 100 && j <= 107 ) {
             cout << "\033[" << i <<";" << j << "m";
-            for(int k = 0; k < 50; k++) {
-               cout << "0";
-            }
+            cout << "JET FUEL CAN'T MELT STEEL BEAMS";
             cout << "\033[0m" << endl;
          }
       }
