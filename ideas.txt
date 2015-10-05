@@ -1,6 +1,10 @@
-Hello, this year we can hopefully learn some cool stuff and have one big project, so in this file I want to list some of the ideas we are going through.
+Hello, this year we can hopefully learn some cool stuff and 
+have one big project, so in this file I want to list some of
+the ideas we are going through.
 
-What we create has to be mostly text-based, as in: no animation. It also cannot be coded in Java. Other than that there aren't any restrictions, so list any idea you have.
+What we create has to be mostly text-based, as in: no 
+animation. It also cannot be coded in Java. Other than that 
+there aren't any restrictions, so list any idea you have.
 
 Please do not remove any ideas.
 
